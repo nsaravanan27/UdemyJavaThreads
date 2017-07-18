@@ -1,13 +1,7 @@
-/**
- * * #   Nokia Confidential   #
- */
 package blog.javappu.threads.extendThreads;
 
 import blog.javappu.threads.ThreadColors;
 
-/**
- * Created by s6n on 17-07-2017.
- */
 public class AnotherThread extends Thread {
     @Override
     public void run() {
